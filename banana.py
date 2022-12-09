@@ -22,10 +22,10 @@ def minion_game(string):
 
     # Si la puntuación de Kevin es mayor que la de Stuart, Kevin gana
     if kevin>stuart:
-        print("Kevin",kevin)
+        print("Kevin ",kevin)
     # Si la puntuación de Stuart es mayor que la de Kevin, Stuart gana
     elif stuart>kevin:
-        print("Stuart",stuart)
+        print("Stuar t",stuart)
     # Si la puntuación de Kevin y Stuart es igual, es un empate
     else:
         print("Empate")
