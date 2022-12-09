@@ -23,5 +23,4 @@ print(minion_game("BANANA"))
             
 
 if __name__ == '__main__':
-    s = input()
-    minion_game(s)
+    minion_game("BANANA")
